@@ -1,0 +1,11 @@
+bin/
+obj/
+/packages/
+/LeetCode.sln
+.idea/.idea.LeetCode/.idea/.gitignore
+.idea/.idea.LeetCode/.idea/contentModel.xml
+.idea/.idea.LeetCode/.idea/indexLayout.xml
+.idea/.idea.LeetCode/.idea/modules.xml
+.idea/.idea.LeetCode/.idea/projectSettingsUpdater.xml
+.idea/.idea.LeetCode/.idea/vcs.xml
+.idea/.idea.LeetCode/riderModule.iml
