@@ -1,10 +1,8 @@
-using System.Linq;
-
-namespace LeetCode._1_TwoSum
+namespace LeetCode.TwoSum
 {
-    public class TwoSum
+    public class Solution
     {
-        public int[] Solution(int[] nums, int target)
+        public int[] TwoSum(int[] nums, int target)
         {
             for (int i = 0; i < nums.Length; i++)
             {
