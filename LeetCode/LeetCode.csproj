@@ -40,6 +40,7 @@
   <ItemGroup>
     <Compile Include="AddTwoNumbers\AddTwoNumbers.cs" />
     <Compile Include="LongestSubstring\LongestSubstring.cs" />
+    <Compile Include="MedianOfTwoSortedArrays\MedianOfTwoSortedArrays.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TwoSum\TwoSum.cs" />

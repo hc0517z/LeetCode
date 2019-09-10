@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="TestAddTwoNumbers.cs" />
     <Compile Include="TestLongestSubstring.cs" />
+    <Compile Include="TestMedianOfTwoSortedArrays.cs" />
     <Compile Include="TestTwoSum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
