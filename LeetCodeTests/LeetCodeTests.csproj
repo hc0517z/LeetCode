@@ -42,6 +42,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TestContainerWithMostWater.cs" />
     <Compile Include="TestPalindromeNumber.cs" />
     <Compile Include="TestStringToIntegerAtoi.cs" />
     <Compile Include="TestAddTwoNumbers.cs" />
