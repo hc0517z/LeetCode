@@ -40,6 +40,7 @@
   <ItemGroup>
     <Compile Include="AddTwoNumbers\AddTwoNumbers.cs" />
     <Compile Include="ContainerWithMostWater\ContainerWithMostWater.cs" />
+    <Compile Include="IntegerToRoman\IntegerToRoman.cs" />
     <Compile Include="LongestPalindromicSubstring\LongestPalindromicSubstring.cs" />
     <Compile Include="LongestSubstring\LongestSubstring.cs" />
     <Compile Include="MedianOfTwoSortedArrays\MedianOfTwoSortedArrays.cs" />

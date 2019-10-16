@@ -42,6 +42,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TestIntegerToRoman.cs" />
     <Compile Include="TestContainerWithMostWater.cs" />
     <Compile Include="TestPalindromeNumber.cs" />
     <Compile Include="TestStringToIntegerAtoi.cs" />
