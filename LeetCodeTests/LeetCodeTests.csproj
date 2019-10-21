@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="TestIntegerToRoman.cs" />
     <Compile Include="TestContainerWithMostWater.cs" />
+    <Compile Include="TestLongestCommonPrefix.cs" />
     <Compile Include="TestPalindromeNumber.cs" />
     <Compile Include="TestRomanToInteger.cs" />
     <Compile Include="TestStringToIntegerAtoi.cs" />
